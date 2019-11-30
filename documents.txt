@@ -2,3 +2,7 @@ yarn add node-sass
 yarn react-router-dom
 https://fonts.google.com/?query=open+sans+c&selection.family=Open+Sans+Condensed:300
 yarn add firebase
+firebase account : https://console.firebase.google.com/project/e-commerce-react-7d2b4/database/firestore/data~2Fusers~2FbnLKltJGrjcaTmgvhC7GdWtMmi02
+yarn add redux
+yarn add redux-logger
+yarn add react-redux
