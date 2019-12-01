@@ -6,3 +6,4 @@ firebase account : https://console.firebase.google.com/project/e-commerce-react-
 yarn add redux
 yarn add redux-logger
 yarn add react-redux
+yarn add reselect // -->  for Memoization
