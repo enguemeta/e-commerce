@@ -9,3 +9,10 @@ yarn add react-redux
 yarn add reselect // -->  for Memoization
 yarn add redux-persist
 yarn add react-stripe-checkout
+stripe account https://dashboard.stripe.com/test/apikeys
+-- Host our application (HEROKU)
+https://devcenter.heroku.com/articles/heroku-cli
+https://dashboard.heroku.com/apps
+npm install -g heroku
+heroku create crw-shopping-live --buildpack https://github.com/mars/create-app-buildpack.git
+git push heroku master
