@@ -7,3 +7,5 @@ yarn add redux
 yarn add redux-logger
 yarn add react-redux
 yarn add reselect // -->  for Memoization
+yarn add redux-persist
+yarn add react-stripe-checkout
