@@ -16,3 +16,6 @@ https://dashboard.heroku.com/apps
 npm install -g heroku
 heroku create crw-shopping-live --buildpack https://github.com/mars/create-app-buildpack.git
 git push heroku master
+CSS in JS --> Styled-components librairie
+yarn add styled-components
+
